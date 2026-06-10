@@ -1,0 +1,14 @@
+[project]
+name = "playground-series-s6e6"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas>=2.3.3",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.2.0",
+]
