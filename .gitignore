@@ -11,3 +11,5 @@ wheels/
 
 .amlignore
 .amlignore.amltmp
+
+.ipynb_aml_checkpoints
